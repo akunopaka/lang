@@ -31,7 +31,7 @@ return [
     ],
     'boolean'              => 'Поле має бути істинним або хибним.',
     'confirmed'            => 'Підтвердження не збігається.',
-    'current_password'     => 'The password is incorrect.',
+    'current_password'     => 'Невірний пароль.',
     'date'                 => 'Не є допустимою датою.',
     'date_equals'          => 'Повинна бути дата, що дорівнює :date.',
     'date_format'          => 'Не відповідає формату :format.',
